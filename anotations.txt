@@ -1,0 +1,4 @@
+Anotações de Aula Clean Code Node
+- sut = sistem under test = segue o padrão TDD
+- file.spec é um arquivo de test
+- eslint staged para trabalhar com git e test

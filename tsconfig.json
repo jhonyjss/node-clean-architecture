@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", //Pasta onde vai ser gerado O JS
+    "module": "commonjs", // module da versão nova permitirá ( apenas suporte )
+    "target": "ES2019",
+    "esModuleInterop": true, //Convert o module para o mais atual
+    "allowJs": true
+  }
+}
